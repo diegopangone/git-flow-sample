@@ -8,6 +8,8 @@ public class GitFlowSampleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitFlowSampleApplication.class, args);
+
+        System.out.println("Teste programa");
     }
 
 }

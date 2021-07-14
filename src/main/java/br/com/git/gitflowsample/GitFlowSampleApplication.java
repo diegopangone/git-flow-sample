@@ -12,6 +12,9 @@ public class GitFlowSampleApplication {
         System.out.println("Teste programa");
 
         System.out.println("Validação ID Final");
+
+
+        System.out.println("Correção Tarifacao");
     }
 
 }

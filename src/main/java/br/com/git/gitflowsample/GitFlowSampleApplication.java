@@ -10,6 +10,8 @@ public class GitFlowSampleApplication {
         SpringApplication.run(GitFlowSampleApplication.class, args);
 
         System.out.println("Teste programa");
+
+        System.out.println("Validação ID Final");
     }
 
 }

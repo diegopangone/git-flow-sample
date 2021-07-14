@@ -15,6 +15,8 @@ public class GitFlowSampleApplication {
 
 
         System.out.println("Correção Tarifacao");
+
+        System.out.println("Correção Teste unitário");
     }
 
 }
